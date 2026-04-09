@@ -1,0 +1,7 @@
+Screenshot review - Logo and fleet update:
+- New FCCO logo is displaying correctly in navbar (winged shield with crown)
+- Logo is clear and professional at the right size
+- Hero section unchanged and looking good
+- Need to verify fleet section with car images (scroll down needed)
+- No TypeScript errors, server running clean
+- Need to check fleet page separately
